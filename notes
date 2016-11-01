@@ -1,0 +1,5 @@
+Add new page: 
+    Add <a> tag in URLS
+    Add url in /urls.py
+    Create view in /views.py
+    Create template in templates/appName/templateName.html   
